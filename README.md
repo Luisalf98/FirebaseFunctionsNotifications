@@ -1,7 +1,7 @@
 # FirebaseFunctionsNotifications
 
-Autor: -Luis Alfredo Pérez Linares
+Author: -Luis Alfredo Pérez Linares
 
-Tecnologías usadas: Firebase, Javascript
+Technologies: Firebase, Javascript
 
-Este es un módulo de un proyecto de una aplicación móvil, cuya función es notificar a todos los dispositivos que usen la aplicación la url de descarga de un archivo que acaba de ser cargado en Firebase Storage (Herramienta de almacenamiento de archivos de Firebase).
+This is a module of a mobile app project. These Firebase functions listen to events produced by file uploads to Firebase Storage and send a Notification with the URL of the file to all Android devices that have the app installed.
